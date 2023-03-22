@@ -1,0 +1,66 @@
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\appsettings.json
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Api.exe
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Api.deps.json
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Api.runtimeconfig.json
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Api.dll
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Api.pdb
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Api.props
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\scopedcss\bundle\Api.styles.css
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.dll
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\refint\Api.dll
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.pdb
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
+C:\Users\shaya\OneDrive\Desktop\NET Cores\Come2Chat\Api\obj\Debug\net7.0\ref\Api.dll
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\appsettings.Development.json
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\appsettings.json
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Api.exe
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Api.deps.json
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Api.runtimeconfig.json
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Api.dll
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Api.pdb
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Projects\Come2Chat\Come2Chat\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Api.props
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api.props
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\staticwebassets.pack.json
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\staticwebassets.build.json
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\staticwebassets.development.json
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\scopedcss\bundle\Api.styles.css
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.dll
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\refint\Api.dll
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.pdb
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
+H:\Projects\Come2Chat\Come2Chat\Api\obj\Debug\net7.0\ref\Api.dll
